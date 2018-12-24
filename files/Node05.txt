@@ -1,0 +1,4 @@
+view ending 2
+You made it to the second ending!
+-1
+1

@@ -1,0 +1,4 @@
+let's begin
+This is a test. Choose one answer to test the interactive story.
+1 2
+0
